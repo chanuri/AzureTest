@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2010
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartDiary", "SmartDiary\SmartDiary.csproj", "{50256317-E05F-4477-84C8-377AAECB85CD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartDiary", "SmartDiary\SmartDiary.csproj", "{9B573855-81A6-40B3-8595-A67A5D8C7D9C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{50256317-E05F-4477-84C8-377AAECB85CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{50256317-E05F-4477-84C8-377AAECB85CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{50256317-E05F-4477-84C8-377AAECB85CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{50256317-E05F-4477-84C8-377AAECB85CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B573855-81A6-40B3-8595-A67A5D8C7D9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B573855-81A6-40B3-8595-A67A5D8C7D9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B573855-81A6-40B3-8595-A67A5D8C7D9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B573855-81A6-40B3-8595-A67A5D8C7D9C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {14515454-682A-46E4-A1A3-BA54E7C7EDB5}
+		SolutionGuid = {60AEADEC-CD79-49B5-A628-73EB40E03366}
 	EndGlobalSection
 EndGlobal
